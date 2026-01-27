@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently pursing my B.TECH degree in (CSE) <br>from GLA UNIVERSITY<br>I am a passionate about my work <br>I am a good learner in all fields<br>I am A 20 YEARS OLD 
+I am currently pursing my B.TECH degree in (CSE) <br>from GLA UNIVERSITY<br>I am a passionate about my work <br><br>I am A 20 YEARS OLD 
 
 
 ## 🌐 Socials:
